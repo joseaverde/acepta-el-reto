@@ -48,6 +48,20 @@
  * está en equilibrio, y NO en otro caso. Recuerda que se dice que un móvil
  * está en equilibrio si todos sus submóviles y él mismo lo están.
  *
+ * ENTRADA DE EJEMPLO
+ *          0 2 0 4
+ *          0 3 0 1
+ *          1 1 1 1
+ *          2 4 4 2
+ *          1 6 3 2
+ *          0 1 3 4
+ *          2 3 3 2
+ *          0 0 0 0
+ *
+ * SALIDA DE EJEMPLO
+ *          SI
+ *          NO
+ *
  * AUTOR : José Antonio Verde Jiménez
  */
 
