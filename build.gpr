@@ -8,11 +8,12 @@ project Build is
       "problema-100.cpp",
       "problema-101.cpp",
       "problema-102.cpp",
-      "problema-103.cpp"
+      "problema-103.cpp",
+      "problema-104.cpp"
    );
 
    package Compiler is
-      for Switches ("C++") use ("-g");
+      for Switches ("C++") use ("-g", "-O2", "-fdiagnostics-color=always");
    end Compiler;
 
 end Build;
