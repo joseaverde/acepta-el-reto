@@ -10,7 +10,8 @@ project Build is
       "problema-102.cpp",
       "problema-103.cpp",
       "problema-104.cpp",
-      "problema-105.cpp"
+      "problema-105.cpp",
+      "problema-106.cpp"
    );
 
    package Compiler is
