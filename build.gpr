@@ -12,7 +12,8 @@ project Build is
       "problema-104.cpp",
       "problema-105.cpp",
       "problema-106.cpp",
-      "problema-107.cpp"
+      "problema-107.cpp",
+      "problema-108.cpp"
    );
 
    package Compiler is
